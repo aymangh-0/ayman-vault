@@ -15,14 +15,11 @@ the application read or write files outside what the user asked for.
 
 Please report suspected security problems **privately**, not in a public issue.
 
-The intended channel is **GitHub's private vulnerability reporting** — the *Report a vulnerability*
-button under this repository's **Security** tab.
+Use GitHub's private vulnerability reporting: open the **Security** tab of this repository and
+choose **Report a vulnerability**. The report is visible only to the maintainer.
 
-> **Status:** this channel is being enabled as part of publishing the repository. If the button is
-> not visible yet, the channel is not live yet — please wait rather than filing a public issue.
-
-When it is available, a report is most useful if it includes the Ayman Vault version, the Windows
-version, what you did, what happened, and what you expected instead.
+A report is most useful if it includes the Ayman Vault version, your Windows version, what you did,
+what happened, and what you expected instead.
 
 Because this is a preview release built by one person, please expect a best-effort response rather
 than a guaranteed timeline.

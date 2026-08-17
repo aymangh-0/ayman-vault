@@ -8,9 +8,9 @@ and are summarized rather than listed in detail.
 
 ---
 
-## 2.12.0 — Early Public Preview
+## 2.12.0 — Early Public Preview — 2026-08-17
 
-_Not yet released. This is the first public build._
+_The first public build._
 
 ### Added
 

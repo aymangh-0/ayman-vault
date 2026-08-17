@@ -213,20 +213,28 @@ and a fairly careful privacy boundary. It is the kind of scope I would not have 
 
 ## Download
 
-**Windows** — installers are published on the [Releases page](../../releases).
+**Ayman Vault v2.12.0 — Early Public Preview**, for 64-bit Windows.
+
+### [⬇ Download the installer (.exe)](https://github.com/aymangh-0/ayman-vault/releases/download/v2.12.0/Ayman%20Vault_2.12.0_x64-setup.exe)
+
+Prefer an MSI? [Download the .msi instead](https://github.com/aymangh-0/ayman-vault/releases/download/v2.12.0/Ayman%20Vault_2.12.0_x64_en-US.msi).
+
+All versions and checksums are on the [Releases page](https://github.com/aymangh-0/ayman-vault/releases).
 
 | | |
 |---|---|
-| **Latest version** | v2.12.0 — Early Public Preview |
-| **Platform** | Windows desktop |
-| **Installers** | `.msi` and `.exe` (NSIS) |
-| **Status** | _not yet published — the first public release is being prepared_ |
+| **Version** | 2.12.0 — Early Public Preview |
+| **Platform** | Windows, 64-bit (x64) |
+| **Installers** | `.exe` (NSIS) and `.msi` |
+| **Code signing** | Not signed — see the note below |
+| **Updates** | No automatic updater |
 
 Ayman Vault uses the Microsoft Edge WebView2 runtime, which is already present on current
 Windows 11 installations.
 
 There is no automatic updater. New versions are announced on the Releases page, and you install
-them the same way you installed the first one.
+them the same way you installed the first one — your vault is stored separately from the
+application and carries over.
 
 ### A note on the installer warning
 
