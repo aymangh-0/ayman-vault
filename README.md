@@ -215,9 +215,9 @@ and a fairly careful privacy boundary. It is the kind of scope I would not have 
 
 **Ayman Vault v2.12.0 — Early Public Preview**, for 64-bit Windows.
 
-### [⬇ Download the installer (.exe)](https://github.com/aymangh-0/ayman-vault/releases/download/v2.12.0/Ayman%20Vault_2.12.0_x64-setup.exe)
+### [⬇ Download the installer (.exe)](https://github.com/aymangh-0/ayman-vault/releases/download/v2.12.0/Ayman.Vault_2.12.0_x64-setup.exe)
 
-Prefer an MSI? [Download the .msi instead](https://github.com/aymangh-0/ayman-vault/releases/download/v2.12.0/Ayman%20Vault_2.12.0_x64_en-US.msi).
+Prefer an MSI? [Download the .msi instead](https://github.com/aymangh-0/ayman-vault/releases/download/v2.12.0/Ayman.Vault_2.12.0_x64_en-US.msi).
 
 All versions and checksums are on the [Releases page](https://github.com/aymangh-0/ayman-vault/releases).
 
